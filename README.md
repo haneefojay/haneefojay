@@ -43,6 +43,12 @@ I'm a versatile software engineer with a passion for building robust, scalable s
 
 ---
 
+📊 GitHub Stats:
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=haneefojay)](https://github.com/LordDashMe/github-contribution-stats/)
+
+---
+
 ## 🎯 Featured Projects
 
 ### **AI & Intelligent Systems**
