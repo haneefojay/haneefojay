@@ -91,7 +91,7 @@ I'm a versatile software engineer with a passion for building robust, scalable s
 | Area | Skills |
 |------|--------|
 | **Languages** | Python, JavaScript, TypeScript, HTML, CSS, Jupyter Notebook |
-| **Web Frameworks** | FastAPI, modern JavaScript frameworks |
+| **Web Frameworks** | FastAPI, React, Next.js |
 | **Architecture** | Microservices, RESTful APIs, Distributed Systems |
 | **Specializations** | AI/ML Integration, Authentication & Security, Payment Integration, Database Design |
 | **Platforms** | GitHub, Vercel, AWS-compatible systems |
@@ -120,4 +120,4 @@ I'm a versatile software engineer with a passion for building robust, scalable s
 
 ---
 
-*Last updated: December 16, 2025*
+*Last updated: February 20, 2026*
