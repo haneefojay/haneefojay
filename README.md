@@ -1,123 +1,117 @@
-# Hi there! 👋 I'm Ojutalayo Haneef Abiola
+<h1 align="center">Hi there 👋, I'm Haneef Ojutalayo</h1>
 
-**Passionate Full-Stack Developer | AI/ML Enthusiast | Backend Architect**
+<p align="center"><b>Senior Software Engineer · Full-Stack · Backend &amp; Distributed Systems</b></p>
 
-Based in Nigeria 🇳🇬 | Open to opportunities | [GitHub Profile](https://github.com/haneefojay)
+<p align="center">Ibadan, Nigeria 🇳🇬 (UTC+1) · Open to remote roles</p>
+
+<p align="center">
+  <a href="https://dev-haneef.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/haneef-ojutalayo-505163285"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:biolahaneef@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://x.com/hanyjay05"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a versatile software engineer with a passion for building robust, scalable solutions across the full technology stack. I specialize in creating responsive user interfaces, powerful APIs, and intelligent backend systems that solve real-world problems.  With experience in multiple programming languages and frameworks, I'm committed to writing clean, maintainable code and staying at the forefront of modern development practices.
+I build full-stack products end to end, from backend architecture and data models to web and mobile clients. Most of my work sits where correctness matters: payments and webhooks, multi-tenant data, background jobs, offline-first sync and usage metering, built to stay correct when networks drop, requests retry and jobs run concurrently.
 
-**Key Highlights:**
-- 🎯 Full-stack development expertise (Frontend & Backend)
-- 🤖 AI/ML integration and intelligent systems
-- 🏗️ Microservices architecture and distributed systems
-- 🔐 Authentication & security implementations
-- 📱 Web and responsive design
-- 🚀 RESTful API design and development
+**Currently**
+- Building the NidCircle mobile app (React Native) and admin dashboard (Next.js), with a NestJS backend
+- Leading client engineering at MushakTech Ventures
+- Shipped [Quotacore v0.1.0](https://github.com/haneefojay/Quotacore/releases/tag/v0.1.0), a self-hosted usage-quota service in Go
 
 ---
 
 ## 💻 Tech Stack
 
-### **Frontend Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Languages**<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### **Backend & API Development**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**Backend**<br>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
-### **AI/ML & Data Science**
-![Python](https://img.shields.io/badge/Machine%20Learning-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+**Frontend & Mobile**<br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**Data & Infrastructure**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**AI**<br>
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ---
 
-📊 GitHub Stats:
+## 📊 GitHub Stats
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=haneefojay)](https://github.com/LordDashMe/github-contribution-stats/)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=haneefojay&theme=dark&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=haneefojay&hide_border=true" alt="GitHub contribution streak">
+  </picture>
+</p>
 
 ---
 
 ## 🎯 Featured Projects
 
-### **AI & Intelligent Systems**
-- **[DocuLensAI](https://github.com/haneefojay/DocuLensAI)** - An Intelligent Documentation Assistant leveraging AI capabilities
-- **[Talqai](https://github.com/haneefojay/Talqai)** - AI-Powered Multimodal Assistant built with TypeScript
-- **[FlashAI](https://github.com/haneefojay/FlashAI)** - Advanced AI-powered application
-- **[AI-Flashcard-Generator](https://github.com/haneefojay/AI-Flashcard-Generator)** - Generate flashcards intelligently with AI (TypeScript)
+| Project | What it is | Stack |
+|---|---|---|
+| **[Quotacore](https://github.com/haneefojay/Quotacore)** | Self-hosted usage-quota service for SaaS: atomic check-and-deduct, charge-once retries, 2,000 req/s at 1.96 ms p99. [v0.1.0](https://github.com/haneefojay/Quotacore/releases/tag/v0.1.0) | Go, Valkey, Lua, PostgreSQL |
+| **[Nexus](https://github.com/haneefojay/Nexus)** | Multi-tenant field inspection platform with an offline-first PWA and exactly-once sync. [Live demo](https://nexus-phi-lyart-48.vercel.app) | Next.js, TypeScript, PostgreSQL, PostGIS |
+| **[Paperless PDF Editor](https://github.com/haneefojay/PDF-Editor)** | Local-first PDF editor for web and Android: edit, sign, redact, OCR and convert without uploading files. [Live app](https://pdf-editor-ten-hazel.vercel.app) | React, TypeScript, MuPDF (WebAssembly), Capacitor |
+| **[EnvDoctor](https://github.com/haneefojay/envdoctor)** | Go CLI that validates environment variables against a contract, locally and in CI, without printing secrets. [v0.1.0](https://github.com/haneefojay/envdoctor/releases/tag/v0.1.0) | Go |
+| **[Wallet Service API](https://github.com/haneefojay/Wallet-Service-API)** | Wallet backend with Paystack deposits, verified webhooks, atomic transfers and permission-scoped API keys | FastAPI, PostgreSQL |
+| **[API Gateway Service](https://github.com/haneefojay/Api-Gateway-Service)** | Gateway for a distributed notification system: JWT auth, rate limiting, circuit breaker and RabbitMQ publishing | FastAPI, Redis, RabbitMQ |
 
-### **Backend & API Services**
-- **[Wallet-Service-API](https://github.com/haneefojay/Wallet-Service-API)** - FastAPI-based wallet service with Paystack integration, JWT authentication via Google Sign-In, and API key management
-- **[Authentication-Service](https://github.com/haneefojay/Authentication-Service)** - Mini authentication system with API key management for service-to-service access (Python/FastAPI)
-- **[Api-Gateway-Service](https://github.com/haneefojay/Api-Gateway-Service)** - Entry point for a Distributed Notification System (Microservices)
-- **[Dynamic-Profile-Endpoint](https://github.com/haneefojay/Dynamic-Profile-Endpoint)** - RESTful API endpoint with dynamic data integration
-- **[String-Analyser-Service](https://github.com/haneefojay/String-Analyser-Service)** - String analysis service with CRUD operations
-- **[Country-Currency-and-Exchange-API](https://github.com/haneefojay/Country-Currency-and-Exchange-API)** - RESTful API for country and currency data with external API integration
+<details>
+<summary><b>Earlier work</b> (HNG Internship services, AI experiments, client websites)</summary>
+<br>
 
-### **Frontend & Web Applications**
-- **[MushakTech-Ventures](https://github.com/haneefojay/MushakTech-Ventures)** - Official website for a tech platform empowering developers ([Visit Site](https://mushaktechventures.com))
-- **[Labaika-School-Website](https://github.com/haneefojay/Labaika-School-Website)** - Modern school website ([Visit Site](https://labaika-school-website.vercel.app))
-- **[hngx-stage0-profile-card](https://github.com/haneefojay/hngx-stage0-profile-card)** - Interactive profile card showcase
-- **[hngx-stage0-blog-post](https://github.com/haneefojay/hngx-stage0-blog-post)** - Responsive blog platform ([Visit Site](https://blog-post-gules-delta.vercel.app))
+- **[DocuLensAI](https://github.com/haneefojay/DocuLensAI)**: intelligent documentation assistant
+- **[Talqai](https://github.com/haneefojay/Talqai)**: AI-powered multimodal assistant (TypeScript)
+- **[FlashAI](https://github.com/haneefojay/FlashAI)** and **[AI-Flashcard-Generator](https://github.com/haneefojay/AI-Flashcard-Generator)**: AI flashcard generation from notes and documents
+- **[Authentication-Service](https://github.com/haneefojay/Authentication-Service)**: authentication with API key management for service-to-service access
+- **[Dynamic-Profile-Endpoint](https://github.com/haneefojay/Dynamic-Profile-Endpoint)**, **[String-Analyser-Service](https://github.com/haneefojay/String-Analyser-Service)**, **[Country-Currency-and-Exchange-API](https://github.com/haneefojay/Country-Currency-and-Exchange-API)**, **[hng-stage3-text-processor](https://github.com/haneefojay/hng-stage3-text-processor)**: HNG Internship backend services
+- **[MushakTech-Ventures](https://github.com/haneefojay/MushakTech-Ventures)** ([site](https://mushaktechventures.com)) and **[Labaika-School-Website](https://github.com/haneefojay/Labaika-School-Website)** ([site](https://labaika-school-website.vercel.app)): client websites
+- **[Library-Management-System](https://github.com/haneefojay/Library-Managment-System)**: library management system (Python)
 
-### **Data & Business Solutions**
-- **[Library-Management-System](https://github.com/haneefojay/Library-Managment-System)** - Comprehensive library management system (Python)
-- **[hng-stage3-text-processor](https://github.com/haneefojay/hng-stage3-text-processor)** - Advanced text processing application
-
----
-
-## 📊 GitHub Statistics
-
-- **Total Public Repositories:** 26
-- **Followers:** 10
-- **Following:** 11
-- **Public Gists:** 0
+</details>
 
 ---
 
 ## 🌟 Core Competencies
 
-| Area | Skills |
-|------|--------|
-| **Languages** | Python, JavaScript, TypeScript, HTML, CSS, Jupyter Notebook |
-| **Web Frameworks** | FastAPI, React, Next.js |
-| **Architecture** | Microservices, RESTful APIs, Distributed Systems |
-| **Specializations** | AI/ML Integration, Authentication & Security, Payment Integration, Database Design |
-| **Platforms** | GitHub, Vercel, AWS-compatible systems |
-| **Methodologies** | Full-stack development, Agile practices, Test-driven development |
+| Area | Focus |
+|------|-------|
+| **Backend & Architecture** | REST API design, microservices, event-driven systems, multi-tenant data models |
+| **Reliability** | Idempotency, atomic transactions, retries and dead-letter queues, offline-first sync |
+| **Payments & Security** | Payment integration, webhook verification, OAuth2 and JWT, API key management |
+| **Product Engineering** | Full-stack web apps, React Native mobile apps, admin dashboards |
+| **AI Integration** | LLM features, RAG pipelines, AI agents |
+| **Engineering Practice** | Specification-first design, architecture decision records, automated testing, CI/CD |
 
 ---
 
-## 🔗 Connect With Me
-
-- 📧 **GitHub:** [@haneefojay](https://github.com/haneefojay)
-- 📍 **Location:** Nigeria
-- 💼 **Open for:** Freelance projects, collaborations, and employment opportunities
-
----
-
-## 📝 Latest Activity
-
-- Building intelligent AI solutions with multimodal capabilities
-- Developing secure microservices architecture
-- Creating payment and wallet systems with modern APIs
-- Contributing to open-source projects
-
----
-
-**"I believe in writing code that not only works but is also maintainable, scalable, and brings real value.  Every project is an opportunity to learn and grow."**
-
----
-
-*Last updated: February 20, 2026*
+<p align="center">Open to remote software engineering roles and contract work. The fastest way to reach me is <a href="https://www.linkedin.com/in/haneef-ojutalayo-505163285">LinkedIn</a> or <a href="mailto:biolahaneef@gmail.com">email</a>.</p>
